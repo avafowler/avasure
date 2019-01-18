@@ -1,1 +1,1 @@
-# avasure
+# AvaSure Hardware Engineering Handbook
